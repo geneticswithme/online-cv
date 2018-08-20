@@ -64,7 +64,19 @@ experiences:
       
       details: Animal genomics
 
+skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python & Shell & R
+        #level: 98%
 
+      - name: Next-generation Sequencing Data Analysis
+        #level: 98%
+
+      - name: Genomic Data Analysis
+        #level: 98%
+
+      
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
