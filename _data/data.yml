@@ -69,13 +69,13 @@ skills:
 
     toolset:
       - name: Python & Shell & R
-        #level: 98%
+        level: 
 
       - name: Next-generation Sequencing Data Analysis
-        #level: 98%
+        level:
 
       - name: Genomic Data Analysis
-        #level: 98%
+        level: 
 
       
 footer: >
